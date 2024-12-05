@@ -1,0 +1,243 @@
+Symptoms,Disease,Medicine
+"Fever, Cough",Common Cold,"Ibuprofen, Rest"
+"Headache, Fatigue",Migraine,Sumatriptan
+Shortness of breath,Asthma,Albuterol Inhaler
+"Nausea, Vomiting",Gastroenteritis,Oral Rehydration
+Sore Throat,Strep Throat,Penicillin
+"Joint Pain, Fatigue",Arthritis,NSAIDs
+"Chest Pain, Dizziness",Hypertension,Amlodipine
+"Itching, Redness",Allergic Reaction,Antihistamine
+"Abdominal Pain, Bloating",Indigestion,Antacids
+"Fatigue, Sadness",Major Depressive,Sertraline
+"Fever, Muscle Aches",Influenza,Acetaminophen
+"Cough, Sneezing",Common Cold,"Honey, Rest"
+"Nausea, Dizziness",Motion Sickness,Dimenhydrinate
+Shortness of breath,Chronic Bronchitis,Inhalers
+"Headache, Blurred Vision",Migraine,Beta-blockers
+"Stomach Pain, Diarrhea",Gastritis,"Antacids, Rest"
+"Joint Pain, Swelling",Rheumatoid Arthritis,NSAIDs
+"Fever, Sore Throat",Tonsillitis,"Fluids, Rest"
+"Back Pain, Numbness",Sciatica,Pain Relievers
+"Nausea, Vomiting",Morning Sickness,"Ginger, Vitamin B6"
+"Fatigue, Weakness",Iron Deficiency,Iron Supplements
+"Anxiety, Rapid Heartbeat",Panic Disorder,Cognitive Therapy
+Shortness of breath,Sleep Apnea,CPAP Machine
+"Skin Rash, Itching",Dermatitis,Topical Steroids
+"Cough, Fever",Respiratory infection,"Antivirals, Rest"
+"Joint Pain, Fatigue",Arthritis,Pain Relievers
+"Dizziness, Fatigue",Heat Exhaustion,"Hydration, Rest"
+"Headache, Sensitivity",Tension Headache,"Relaxation, NSAIDs"
+"Abdominal Pain, Bloating O",Indigestion,Antacids
+"Nausea, Cramps",Menstrual Cramps,Pain Relievers
+"Chest Pain, Shortness of breath",Coronary ArteryDisease,Nitroglycerin
+"Fatigue, Difficulty breathing",Thyroid Disorder,Levothyroxine
+"Fever, Chills",Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of breath",COVID-19,"Isolation, Fluids"
+"Itching, Redness",Allergic Reaction,Antihistamine
+"Muscle Pain, Fatigue",Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting",Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision",Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea",Gastroenteritis,"Fluids, Bland Diet"
+"Back Pain, Numbness",Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat",Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness",Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Anxiety, Palpitations",Anxiety Disorder,"Therapy, Medication"
+"Chest Pain, Shortness of breath",Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling",Arthritis,NSAIDs
+"Nausea, Dizziness",Motion Sickness,Dimenhydrinate
+"Fever, Cough",Common Cold,"Ibuprofen, Rest"
+"Headache, Fatigue",Migraine,Sumatriptan
+Shortness of breath,Asthma,Albuterol Inhaler
+"Nausea, Vomiting",Gastroenteritis,Oral Rehydration
+Sore Throat,Strep Throat,Penicillin
+"Joint Pain, Fatigue",s  Arthritis,NSAIDs
+"Chest Pain, Dizziness",Hypertension,Amlodipine
+"Itching, Redness",Allergic Reaction,Antihistamine
+"Abdominal Pain, Bloating",Indigestion,Antacids
+"Fatigue, Sadness",Major Depressive Disorder, Sertraline
+"Chest Pain, Shortness of breath",Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling",Arthritis,NSAIDs
+"Nausea, Dizziness",Motion Sickness,Dimenhydrinate
+"Fatigue, Weakness",Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Fever, Chills",Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of breat",COVID-19,"Isolation, Fluids"
+"Itching, Redness",Allergic Reacti,on   Antihistamine
+"Muscle Pain, Fatigue",Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting",Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision",Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea",Gastroenteritis,"Fluids, Bland Diet"
+"Back Pain, Numbness",Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat",Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness",Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Anxiety, Palpitations",Anxiety Disorder," Therapy, Medication"
+"Chest Pain, Shortness",Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling",Arthritis,NSAIDs
+"Nausea, Dizziness",Motion Sickness,Dimenhydrinate
+"Fatigue, Weakness",Chronic Fatigue,"Rest, Lifestyle"
+"Fever, Chills",Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of breat",COVID-19,"Isolation, Fluids"
+"Itching, Redness",Allergic Reacti,on   Antihistamine
+"Muscle Pain, Fatigue",Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting",Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision",Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea",Gastroenteritis,"Fluids, Bland Diet"
+"Back Pain, Numbness",Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat",Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness",Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Anxiety, Palpitations",Anxiety Disorder," Therapy, Medication"
+"Chest Pain, Shortness of breath",Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling", Arthritis,NSAIDs
+"Nausea, Dizziness",Motion Sickness,Dimenhydrinate
+"Fatigue, Weakness",Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Abdominal Pain, Bloating",Indigestion,Antacids
+"Fatigue, Weakness",Iron Deficiency,Iron Supplements
+" Anxiety, Rapid Heartbeat",Panic Disorder,Cognitive Therapy
+Shortness of breath,Sleep Apnea,CPAP Machine
+" Skin Rash, Itching",Dermatitis,Topical Steroids
+"Cough, Fever",RespiratoryInfection,"Antivirals, Rest"
+"Joint Pain, Fatigue",Arthritis,Pain Relievers
+"Dizziness, Fatigue",Heat Exhaustion," Hydration, Rest"
+"Headache, Sensitivity",Tension Headache,"Relaxation, NSAIDs"
+"Abdominal Pain, Bloating",Indigestion,Antacids
+"Nausea, Cramps",Menstrual Cramps, Pain Relievers
+"Chest Pain, Shortness of breath",Coronary Artery,"  Nitroglycerin,Aspirin"
+"Fatigue, Difficulty breathing",Thyroid Disorder,  Levothyroxine
+"Fever, Chills",Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of brea",COVID-19,"Isolation, Fluids"
+"e Itching, Redness",Allergic Reaction, Antihistamine
+"Muscle Pain, Fatigue",Muscle Strain,"Rest, Pain Relievers"
+" Nausea, Vomiting",Gastroenteritis,  Oral Rehydration
+"Headache, Blurred Vision",Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea",Gastroenteritis,"  Fluids, Bland Diet"
+" Back Pain, Numbness",Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat",Tonsillitis,"Fluids, Rest"
+" Fatigue, Weakness",Chronic Fatigue Syndrome,"  Rest, Lifestyle"
+" Anxiety, Palpitations",Anxiety Disorder,"Therapy, Medication"
+"Chest Pain, Shortness",Muscle Overuse,"Rest, Stretching"
+" Joint Pain, Swelling",is  Arthritis,NSAIDs
+"Nausea, Dizziness",Motion Sickness, Dimenhydrinate
+"e Fatigue, Weakness",Chronic Fatigue,"Rest, Lifestyle"
+"Fever, Chills",Pneumonia,"Antibiotics, Rest"
+"e Cough, Shortness of brea",COVID-19,"Isolation, Fluids"
+"e Itching, Redness",Allergic Reaction, Antihistamine
+"Muscle Pain, Fatigue",Muscle Strain,"Rest, Pain Relievers"
+"e Nausea, Vomiting",Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision",Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea",Gastroenteritis,"Fluids, Bland Diet"
+"e Back Pain, Numbness",Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat",Tonsillitis,"Fluids, Rest"
+"e Fatigue, Weakness",Chronic Fatigue,"Rest, Lifestyle"
+"e Anxiety, Palpitations",Anxiety Disorder,"Therapy, Medication"
+"Chest Pain, Shortnessof breath",Muscle Overuse,"Rest, Stretching"
+"e Joint Pain, Swelling", Arthritis,NSAIDs
+"Nausea, Dizziness",Motion Sickness, Dimenhydrinate
+"e Fatigue, Weakness",Chronic Fatigue Syndrome," Rest, Lifestyle"
+"Fever, Chills",Pneumonia,"Antibiotics, Rest"
+"Sore Throat, Cough",Strep Throat,Penicillin
+"Fatigue, Weakness",Iron Deficiency,Iron Supplements
+"Anxiety, Rapid Heartbeat",Panic Disorder,Cognitive Therapy
+Shortness of breath,Sleep Apnea,CPAP Machine
+"Skin Rash, Itching",Dermatitis,Topical Steroids
+"Cough, Fever",Respiratory Infection,"Antivirals, Rest"
+"Joint Pain, Fatigue",Arthritis,NSAIDs
+"Dizziness, Fatigue",Heat Exhaustion,"Hydration, Rest"
+"Headache, Sensitivity",Tension Headache,"Relaxation, NSAIDs"
+"Abdominal Pain, Bloating",Indigestion,Antacids
+"Nausea, Cramps",Menstrual Cramps,Pain Relievers
+"Chest Pain, Shortness of breath",Coronary Artery Disease,"Nitroglycerin,Aspirin"
+"Fatigue, Difficulty breathing",Thyroid Disorder,Levothyroxine
+"Fever, Chills",Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of breath",COVID-19,"Isolation, Fluids"
+"Itching, Redness",Allergic Reaction,Antihistamine
+"Muscle Pain, Fatigue",Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting",Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision",Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea",Gastroenteritis,"Fluids, Bland Diet"
+"Back Pain, Numbness",Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat",Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness",Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Anxiety, Palpitations",Anxiety Disorder,"Therapy, Medication"
+"Chest Pain, Shortness of breath",Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling",Arthritis,NSAIDs
+"Nausea, Dizziness",Motion Sickness,Dimenhydrinate
+"Fatigue, Weakness",Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Fever, Chills",Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of breath",COVID-19,"Isolation, Fluids"
+"Itching, Redness",Allergic Reaction,Antihistamine
+"Muscle Pain, Fatigue",Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting",Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision",Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea",Gastroenteritis,"Fluids, Bland Diet"
+"Back Pain, Numbness",Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat",Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness",Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Anxiety, Palpitations",Anxiety Disorder,"Therapy, Medication"
+"Chest Pain, Shortness of breath",Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling",Arthritis,NSAIDs
+"Nausea, Dizziness",Motion Sickness,Dimenhydrinate
+"Fatigue, Weakness",Chronic Fatigue,"Rest, Lifestyle"
+"Fever, Chills",Pneumonia,"Antibiotics, Rest"
+"Sore Throat, Cough",Strep Throat,Penicillin
+"Fatigue, Weakness",Iron Deficiency,Iron Supplements
+"Anxiety, Rapid Heartbeat",Panic Disorder,Cognitive Therapy
+Shortness of breath,Sleep Apnea,CPAP Machine
+"Skin Rash, Itching",Dermatitis,Topical Steroids
+"Cough, Fever",Respiratory,"Antivirals, Rest"
+"Joint Pain, Fatigue",Arthritis,NSAIDs
+"Dizziness, Fatigue",Heat Exhaustion,"Hydration, Rest"
+"Headache, Sensitivity",Tension Headache,"Relaxation, NSAIDs"
+"Abdominal Pain, Bloating",Indigestion,Antacids
+"Nausea, Cramps",Menstrual Cramps,Pain Relievers
+"Chest Pain, Shortness",Coronary Artery,Nitroglycerin
+of breath,Disease,Aspirin
+"Fatigue, Difficulty",Thyroid Disorder,Levothyroxine
+"Fever, Chills",Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of breat",COVID-19,"Isolation, Fluids"
+"Itching, Redness",Allergic Reaction,Antihistamine
+"Muscle Pain, Fatigue",Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting",Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision",Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea",Gastroenteritis,"Fluids, Bland Diet"
+"Back Pain, Numbness",Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat",Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness",Chronic Fatigue,"Rest, Lifestyle"
+"Anxiety, Palpitations",Anxiety Disorder,"Therapy, Medication"
+"Chest Pain, Shortness",Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling",Arthritis,NSAIDs
+"Nausea, Dizziness",Motion Sickness,Dimenhydrinate
+"Fatigue, Weakness",Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Fever, Chills",Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of breath",COVID-19,"Isolation, Fluids"
+"Itching, Redness",Allergic Reaction,Antihistamine
+"Muscle Pain, Fatigue",Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting",Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision",Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea",Gastroenteritis,"Fluids, Bland Diet"
+"Back Pain, Numbness",Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat",Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness",Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Anxiety, Palpitations",Anxiety Disorder,"Therapy, Medication"
+"Chest Pain, Shortness of breath",Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling",Arthritis,NSAIDs
+"Nausea, Dizziness",Motion Sickness,Dimenhydrinate
+"Fatigue, Weakness",Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Fever, Chills",Pneumonia,"Antibiotics, Rest"
+"Sore Throat, Cough",Strep Throat     ,Penicillin
+"Fatigue, Weakness",Iron Deficiency ,Iron Supplements
+"Anxiety, Rapid Heartbeat",Panic Disorder  ,Cognitive Therapy
+Shortness of breath,Sleep Apnea     ,CPAP Machine
+"Skin Rash, Itching",Dermatitis      ,Topical Steroids
+"Cough, Fever",Respiratory     AntiInfection,"virals, Rest"
+"Joint Pain, Fatigue",Arthritis     ,  NSAIDs
+"Dizziness, Fatigue",Heat Exhaustion Hydr,"ation, Rest"
+"Headache, Sensitivity",Tension Headache Rel,"axation, NSAIDs"
+"Abdominal Pain, Bloating",Indigestion     Anta,cids
+"Nausea, Cramps",Menstrual Cramps Pai,n Relievers
+"Chest Pain, Shortnessof breath",Coronary Artery Disease   ,"Nitroglycerin,Aspirin"
+"Fatigue, Difficulty breathing",Disease         , Levothyroxine
+"Fever, Chills",Pheumonia      ," Antibiotics, Rest"
+"Cough, Shortness of breath",COVID-19      ,"  Isolation, Fluids"
+"Itching, Redness",Allergic Reaction An,tihistamine
+"Muscle Pain, Fatigue",Muscle Strain  ," Rest, Pain Relievers"
+"Nausea, Vomiting",Muscle Strain  ,Rehydration
+"Headache, Blurred Vision",Muscle Strain  ,Eye Exercises
