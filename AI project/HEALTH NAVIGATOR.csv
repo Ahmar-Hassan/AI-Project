@@ -1,0 +1,601 @@
+Symptoms,Disease,Medicine,Causes,Precautions,Severity,Specialist,Treatment duraton in days)
+"Fever, Cough","Common Cold, Allergy","Ibuprofen, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,4
+"Headache, Fatigue","Migraine, Bronchitis",Sumatriptan,Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+Shortness Of Breath,"Asthma, Allergy",Albuterol Inhaler,Viral infection,Maintain hygiene and rest,Moderate,General Physician,30
+"Nausea, Vomiting","Gastroenteritis, COVID-19",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,30
+Sore Throat,"Strep Throat, Malaria",Penicillin,Viral infection,Maintain hygiene and rest,Moderate,General Physician,11
+"Joint Pain, Fatigue","Arthritis, COVID-19",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,3
+"Chest Pain, Dizziness","Hypertension, Dengue",Amlodipine,Viral infection,Maintain hygiene and rest,High,General Physician,27
+"Itching, Redness","Allergic Reaction, Dengue",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Abdominal Pain, Bloating","Indigestion, Allergy",Antacids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Fatigue, Sadness","Major Depressive, Bronchitis",Sertraline,Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Fever, Muscle Aches","Influenza, Bronchitis",Acetaminophen,Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,3
+"Cough, Sneezing","Common Cold, COVID-19","Honey, Rest",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,8
+"Nausea, Dizziness","Motion Sickness, Common Cold",Dimenhydrinate,Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+Shortness Of Breath,"Chronic Bronchitis, Dengue",Inhalers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,29
+"Headache, Blurred Vision","Migraine, COVID-19",Beta-Blockers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+"Stomach Pain, Diarrhea","Gastritis, Malaria","Antacids, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,14
+"Joint Pain, Swelling","Rheumatoid Arthritis, Malaria",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Fever, Sore Throat","Tonsillitis, Flu","Fluids, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Back Pain, Numbness","Sciatica, Dengue",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Nausea, Vomiting","Morning Sickness, COVID-19","Ginger, Vitamin B6",Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+"Fatigue, Weakness","Iron Deficiency, Dengue",Iron Supplements,Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+"Anxiety, Rapid Heartbeat","Panic Disorder, Malaria",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+Shortness Of Breath,"Sleep Apnea, COVID-19",Cpap Machine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Skin Rash, Itching","Dermatitis, Dengue",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,13
+"Cough, Fever","Respiratory Infection, COVID-19","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,5
+"Joint Pain, Fatigue","Arthritis, COVID-19",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Dizziness, Fatigue","Heat Exhaustion, Bronchitis","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,30
+"Headache, Sensitivity","Tension Headache, Dengue","Relaxation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Abdominal Pain, Bloating O","Indigestion, Flu",Antacids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Nausea, Cramps","Menstrual Cramps, Dengue",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,14
+"Chest Pain, Shortness Of Breath","Coronary Arterydisease, Common Cold",Nitroglycerin,Viral infection,Maintain hygiene and rest,High,General Physician,23
+"Fatigue, Difficulty Breathing","Thyroid Disorder, COVID-19",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+"Fever, Chills","Pneumonia, Bronchitis","Antibiotics, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Cough, Shortness Of Breath","Covid-19, Dengue","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,29
+"Muscle Pain, Fatigue","Muscle Strain, Allergy","Rest, Pain Relievers",Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Headache, Blurred Vision","Vision Fatigue, Dengue","Rest, Eye Exercises",Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Stomach Pain, Diarrhea","Gastroenteritis, Allergy","Fluids, Bland Diet",Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+"Back Pain, Numbness","Herniated Disc, COVID-19","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,17
+"Fatigue, Weakness","Chronic Fatigue Syndrome, Bronchitis","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+"Anxiety, Palpitations","Anxiety Disorder, Common Cold","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+"Chest Pain, Shortness Of Breath","Muscle Overuse, Flu","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,28
+"Joint Pain, Swelling","Arthritis, Flu",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,22
+Typhoid,"fever, abdominal pain, diarrhea, Allergy",ciprofloxacin,bacterial infection (salmonella),"boiled water, hygiene",Severe,Infectious Disease,6
+"Fatigue, Sadness","Major Depressive Disorder, Bronchitis",Sertraline,Viral infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Cough, Shortness Of Breat","Covid-19, Common Cold","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,7
+"Itching, Redness","Allergic Reacti, Allergy",On   Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+"Anxiety, Palpitations","Anxiety Disorder, COVID-19","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Chest Pain, Shortness","Muscle Overuse, Dengue","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,4
+"Fatigue, Weakness","Chronic Fatigue, Flu","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+"Joint Pain, Swelling","Arthritis, COVID-19",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Anxiety, Rapid Heartbeat","Panic Disorder, Common Cold",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Skin Rash, Itching","Dermatitis, Flu",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+"Cough, Fever","Respiratoryinfection, Flu","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,10
+"Dizziness, Fatigue","Heat Exhaustion, Dengue","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Nausea, Cramps","Menstrual Cramps, Bronchitis",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Chest Pain, Shortness Of Breath","Coronary Artery, Allergy","Nitroglycerin,Aspirin",Viral infection,Maintain hygiene and rest,High,General Physician,20
+"Fatigue, Difficulty Breathing","Thyroid Disorder, Flu",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+"Cough, Shortness Of Brea","Covid-19, Flu","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,4
+"Itching, Redness","Allergic Reaction, Bronchitis",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Nausea, Vomiting","Gastroenteritis, Malaria",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,22
+"Stomach Pain, Diarrhea","Gastroenteritis, Allergy","Fluids, Bland Diet",Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Back Pain, Numbness","Herniated Disc, Dengue","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Fatigue, Weakness","Chronic Fatigue Syndrome, Common Cold","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Anxiety, Palpitations","Anxiety Disorder, Malaria","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,12
+"Joint Pain, Swelling","Is  Arthritis, Common Cold",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+"Nausea, Dizziness","Motion Sickness, Dengue",Dimenhydrinate,Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Fatigue, Weakness","Chronic Fatigue, COVID-19","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,22
+"Cough, Shortness Of Brea","Covid-19, Allergy","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,3
+"Nausea, Vomiting","Gastroenteritis, Common Cold",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,9
+"Back Pain, Numbness","Herniated Disc, Flu","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,18
+"Anxiety, Palpitations","Anxiety Disorder, Common Cold","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,17
+"Chest Pain, Shortnessof Breath","Muscle Overuse, COVID-19","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,12
+"Joint Pain, Swelling","Arthritis, COVID-19",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,12
+"Fatigue, Weakness","Chronic Fatigue Syndrome, Malaria","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Sore Throat, Cough","Strep Throat, Allergy",Penicillin,Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,19
+"Cough, Fever","Respiratory Infection, Flu","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,6
+"Chest Pain, Shortness Of Breath","Coronary Artery Disease, Dengue","Nitroglycerin,Aspirin",Viral infection,Maintain hygiene and rest,High,General Physician,17
+Epilepsy,"seizures, confusion, staring spells, COVID-19",valproate,"genetic, brain injury","avoid triggers, medication",Chronic,Neurologist,4
+"Chest Pain, Shortness","Coronary Artery, Allergy",Nitroglycerin,Viral infection,Maintain hygiene and rest,High,General Physician,19
+Hepatitis B,"jaundice, fatigue, nausea, Allergy",antivirals,viral infection,"vaccination, avoid alcohol",Chronic,Hepatologist,16
+"Fatigue, Difficulty","Thyroid Disorder, Bronchitis",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Sore Throat, Cough","Strep Throat, Flu",Penicillin,Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,1
+"Fatigue, Weakness","Iron Deficiency, Allergy",Iron Supplements,Viral infection,Maintain hygiene and rest,Moderate,General Physician,12
+"Anxiety, Rapid Heartbeat","Panic Disorder, COVID-19",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+Arthritis,"joint pain, stiffness, swelling, Bronchitis",ibuprofen,"aging, genetics, autoimmune","exercise, weight control",Moderate,Rheumatologist,11
+"Skin Rash, Itching","Dermatitis, Common Cold",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Cough, Fever","Respiratory     Antiinfection, Malaria","Virals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,25
+"Joint Pain, Fatigue","Arthritis, Bronchitis",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,14
+"Dizziness, Fatigue","Heat Exhaustion Hydr, Allergy","Ation, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Headache, Sensitivity","Tension Headache Rel, COVID-19","Axation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Abdominal Pain, Bloating","Indigestion     Anta, Malaria",Cids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,18
+"Nausea, Cramps","Menstrual Cramps Pai, Malaria",N Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Chest Pain, Shortnessof Breath","Coronary Artery Disease, COVID-19","Nitroglycerin,Aspirin",Viral infection,Maintain hygiene and rest,High,General Physician,23
+"Fatigue, Difficulty Breathing","Disease, Allergy",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,10
+"Fever, Chills","Pheumonia, Bronchitis","Antibiotics, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,7
+"Cough, Shortness Of Breath","Covid-19, Bronchitis","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,9
+"Itching, Redness","Allergic Reaction An, Bronchitis",Tihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,20
+"Muscle Pain, Fatigue","Muscle Strain, Bronchitis","Rest, Pain Relievers",Viral infection,Maintain hygiene and rest,Moderate,General Physician,13
+"Nausea, Vomiting","Muscle Strain, Bronchitis",Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,13
+"Headache, Blurred Vision","Muscle Strain, Common Cold",Eye Exercises,Viral infection,Maintain hygiene and rest,Moderate,General Physician,17
+Diabetes,"fatigue, frequent urination, thirst, Common Cold",metformin,"high sugar, obesity, genetics","diet control, exercise",Chronic,Endocrinologist,21
+Typhoid,"fever, abdominal pain, diarrhea, COVID-19",ciprofloxacin,bacterial infection (salmonella),"boiled water, hygiene",Severe,Infectious Disease,9
+"Skin Rash, Itching","Dermatitis, Flu",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Chest Pain, Shortnessof Breath","Coronary Artery Disease, COVID-19","Nitroglycerin,Aspirin",Viral infection,Maintain hygiene and rest,High,General Physician,22
+"Headache, Blurred Vision","Migraine, COVID-19",Beta-Blockers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,10
+"Chest Pain, Shortnessof Breath","Muscle Overuse, COVID-19","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,10
+"Stomach Pain, Diarrhea","Gastroenteritis, Allergy","Fluids, Bland Diet",Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Fatigue, Weakness","Iron Deficiency, Dengue",Iron Supplements,Viral infection,Maintain hygiene and rest,Moderate,General Physician,9
+"Fatigue, Weakness","Iron Deficiency, Allergy",Iron Supplements,Viral infection,Maintain hygiene and rest,Moderate,General Physician,9
+"Cough, Fever","Respiratory     Antiinfection, Malaria","Virals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,22
+"Sore Throat, Cough","Strep Throat, Allergy",Penicillin,Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,19
+"Sore Throat, Cough","Strep Throat, Allergy",Penicillin,Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,22
+"Joint Pain, Fatigue","Arthritis, Bronchitis",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,12
+"Headache, Blurred Vision","Muscle Strain, Common Cold",Eye Exercises,Viral infection,Maintain hygiene and rest,Moderate,General Physician,20
+"Skin Rash, Itching","Dermatitis, Dengue",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,10
+Shortness Of Breath,"Asthma, Allergy",Albuterol Inhaler,Viral infection,Maintain hygiene and rest,Moderate,General Physician,32
+"Anxiety, Rapid Heartbeat","Panic Disorder, Malaria",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,10
+"Cough, Fever","Respiratoryinfection, Flu","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,8
+"Headache, Fatigue","Migraine, Bronchitis",Sumatriptan,Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Joint Pain, Fatigue","Arthritis, Bronchitis",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,17
+"Nausea, Cramps","Menstrual Cramps, Dengue",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,12
+"Back Pain, Numbness","Herniated Disc, COVID-19","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,17
+"Headache, Fatigue","Migraine, Bronchitis",Sumatriptan,Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Anxiety, Palpitations","Anxiety Disorder, Malaria","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,12
+"Nausea, Vomiting","Gastroenteritis, Malaria",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+"Fatigue, Weakness","Iron Deficiency, Dengue",Iron Supplements,Viral infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Fever, Chills","Pneumonia, Bronchitis","Antibiotics, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Cough, Fever","Respiratory Infection, Flu","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,5
+"Cough, Shortness Of Brea","Covid-19, Flu","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,4
+"Anxiety, Rapid Heartbeat","Panic Disorder, Malaria",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+"Dizziness, Fatigue","Heat Exhaustion Hydr, Allergy","Ation, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Fatigue, Weakness","Chronic Fatigue, Flu","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+"Abdominal Pain, Bloating","Indigestion     Anta, Malaria",Cids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+"Itching, Redness","Allergic Reaction, Bronchitis",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Joint Pain, Swelling","Arthritis, Flu",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Nausea, Cramps","Menstrual Cramps Pai, Malaria",N Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,29
+"Nausea, Vomiting","Gastroenteritis, Malaria",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+Hepatitis B,"jaundice, fatigue, nausea, Allergy",antivirals,viral infection,"vaccination, avoid alcohol",Chronic,Hepatologist,18
+"Headache, Blurred Vision","Migraine, COVID-19",Beta-Blockers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+"Back Pain, Numbness","Herniated Disc, Dengue","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Back Pain, Numbness","Herniated Disc, Dengue","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,17
+"Anxiety, Palpitations","Anxiety Disorder, COVID-19","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,20
+"Back Pain, Numbness","Herniated Disc, Dengue","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+"Anxiety, Rapid Heartbeat","Panic Disorder, Common Cold",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Nausea, Cramps","Menstrual Cramps, Bronchitis",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,16
+"Anxiety, Palpitations","Anxiety Disorder, Malaria","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+Shortness Of Breath,"Asthma, Allergy",Albuterol Inhaler,Viral infection,Maintain hygiene and rest,Moderate,General Physician,33
+Diabetes,"fatigue, frequent urination, thirst, Common Cold",metformin,"high sugar, obesity, genetics","diet control, exercise",Chronic,Endocrinologist,18
+"Anxiety, Rapid Heartbeat","Panic Disorder, Common Cold",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Chest Pain, Dizziness","Hypertension, Dengue",Amlodipine,Viral infection,Maintain hygiene and rest,High,General Physician,28
+"Fatigue, Weakness","Iron Deficiency, Dengue",Iron Supplements,Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+"Joint Pain, Swelling","Arthritis, COVID-19",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,14
+"Fatigue, Weakness","Chronic Fatigue Syndrome, Bronchitis","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,22
+"Fever, Sore Throat","Tonsillitis, Flu","Fluids, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Nausea, Vomiting","Gastroenteritis, COVID-19",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Dizziness, Fatigue","Heat Exhaustion Hydr, Allergy","Ation, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Nausea, Vomiting","Gastroenteritis, Malaria",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+Shortness Of Breath,"Chronic Bronchitis, Dengue",Inhalers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Abdominal Pain, Bloating","Indigestion, Allergy",Antacids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,20
+"Headache, Sensitivity","Tension Headache Rel, COVID-19","Axation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,2
+"Cough, Fever","Respiratoryinfection, Flu","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,10
+"Headache, Fatigue","Migraine, Bronchitis",Sumatriptan,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Anxiety, Rapid Heartbeat","Panic Disorder, COVID-19",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Nausea, Cramps","Menstrual Cramps Pai, Malaria",N Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Nausea, Vomiting","Gastroenteritis, Malaria",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Anxiety, Palpitations","Anxiety Disorder, Common Cold","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,17
+"Fatigue, Sadness","Major Depressive Disorder, Bronchitis",Sertraline,Viral infection,Maintain hygiene and rest,Moderate,General Physician,3
+"Itching, Redness","Allergic Reaction, Dengue",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Anxiety, Palpitations","Anxiety Disorder, COVID-19","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+"Muscle Pain, Fatigue","Muscle Strain, Allergy","Rest, Pain Relievers",Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+Epilepsy,"seizures, confusion, staring spells, COVID-19",valproate,"genetic, brain injury","avoid triggers, medication",Chronic,Neurologist,4
+"Fatigue, Difficulty","Thyroid Disorder, Bronchitis",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Headache, Blurred Vision","Vision Fatigue, Dengue","Rest, Eye Exercises",Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Joint Pain, Swelling","Arthritis, COVID-19",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Nausea, Vomiting","Gastroenteritis, COVID-19",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,32
+"Headache, Fatigue","Migraine, Bronchitis",Sumatriptan,Viral infection,Maintain hygiene and rest,Moderate,General Physician,31
+"Joint Pain, Fatigue","Arthritis, COVID-19",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,1
+"Dizziness, Fatigue","Heat Exhaustion, Dengue","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,22
+"Nausea, Vomiting","Gastroenteritis, COVID-19",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Dizziness, Fatigue","Heat Exhaustion, Dengue","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Chest Pain, Shortnessof Breath","Coronary Artery Disease, COVID-19","Nitroglycerin,Aspirin",Viral infection,Maintain hygiene and rest,High,General Physician,21
+"Fatigue, Weakness","Chronic Fatigue Syndrome, Common Cold","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Fever, Sore Throat","Tonsillitis, Flu","Fluids, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Headache, Sensitivity","Tension Headache Rel, COVID-19","Axation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+"Fatigue, Sadness","Major Depressive Disorder, Bronchitis",Sertraline,Viral infection,Maintain hygiene and rest,Moderate,General Physician,3
+"Cough, Shortness Of Breath","Covid-19, Dengue","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,32
+"Fatigue, Weakness","Chronic Fatigue Syndrome, Malaria","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Back Pain, Numbness","Herniated Disc, Dengue","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,16
+"Headache, Blurred Vision","Muscle Strain, Common Cold",Eye Exercises,Viral infection,Maintain hygiene and rest,Moderate,General Physician,14
+Shortness Of Breath,"Chronic Bronchitis, Dengue",Inhalers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,30
+"Fever, Chills","Pheumonia, Bronchitis","Antibiotics, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,10
+"Chest Pain, Shortness","Muscle Overuse, Dengue","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,7
+"Headache, Blurred Vision","Migraine, COVID-19",Beta-Blockers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Chest Pain, Shortnessof Breath","Muscle Overuse, COVID-19","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,10
+Epilepsy,"seizures, confusion, staring spells, COVID-19",valproate,"genetic, brain injury","avoid triggers, medication",Chronic,Neurologist,1
+"Cough, Fever","Respiratory     Antiinfection, Malaria","Virals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,26
+"Back Pain, Numbness","Herniated Disc, Dengue","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,17
+"Anxiety, Palpitations","Anxiety Disorder, Common Cold","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+Arthritis,"joint pain, stiffness, swelling, Bronchitis",ibuprofen,"aging, genetics, autoimmune","exercise, weight control",Moderate,Rheumatologist,12
+Hepatitis B,"jaundice, fatigue, nausea, Allergy",antivirals,viral infection,"vaccination, avoid alcohol",Chronic,Hepatologist,15
+"Sore Throat, Cough","Strep Throat, Flu",Penicillin,Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,1
+"Cough, Fever","Respiratoryinfection, Flu","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,7
+"Skin Rash, Itching","Dermatitis, Dengue",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,12
+"Joint Pain, Fatigue","Arthritis, COVID-19",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Dizziness, Fatigue","Heat Exhaustion Hydr, Allergy","Ation, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Nausea, Vomiting","Gastroenteritis, Malaria",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Chest Pain, Shortness Of Breath","Muscle Overuse, Flu","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,26
+"Abdominal Pain, Bloating O","Indigestion, Flu",Antacids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+"Headache, Blurred Vision","Migraine, COVID-19",Beta-Blockers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+"Cough, Shortness Of Breat","Covid-19, Common Cold","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,8
+"Joint Pain, Swelling","Is  Arthritis, Common Cold",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+"Dizziness, Fatigue","Heat Exhaustion Hydr, Allergy","Ation, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Anxiety, Palpitations","Anxiety Disorder, Common Cold","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+"Abdominal Pain, Bloating","Indigestion, Allergy",Antacids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,20
+"Joint Pain, Fatigue","Arthritis, Bronchitis",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,11
+"Fever, Cough","Common Cold, Allergy","Ibuprofen, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,2
+"Itching, Redness","Allergic Reaction, Dengue",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Joint Pain, Fatigue","Arthritis, Bronchitis",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,11
+"Fatigue, Weakness","Chronic Fatigue Syndrome, Common Cold","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Fever, Muscle Aches","Influenza, Bronchitis",Acetaminophen,Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Fatigue, Difficulty","Thyroid Disorder, Bronchitis",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Itching, Redness","Allergic Reaction, Dengue",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,30
+"Muscle Pain, Fatigue","Muscle Strain, Allergy","Rest, Pain Relievers",Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Muscle Pain, Fatigue","Muscle Strain, Allergy","Rest, Pain Relievers",Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Fever, Chills","Pneumonia, Bronchitis","Antibiotics, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,27
+Sore Throat,"Strep Throat, Malaria",Penicillin,Viral infection,Maintain hygiene and rest,Moderate,General Physician,14
+"Chest Pain, Shortness Of Breath","Muscle Overuse, Flu","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,28
+"Headache, Sensitivity","Tension Headache, Dengue","Relaxation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+"Chest Pain, Dizziness","Hypertension, Dengue",Amlodipine,Viral infection,Maintain hygiene and rest,High,General Physician,30
+"Joint Pain, Swelling","Arthritis, COVID-19",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,13
+"Chest Pain, Shortnessof Breath","Muscle Overuse, COVID-19","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,13
+"Cough, Sneezing","Common Cold, COVID-19","Honey, Rest",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,7
+"Cough, Shortness Of Breath","Covid-19, Dengue","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,28
+"Fever, Chills","Pneumonia, Bronchitis","Antibiotics, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Chest Pain, Shortness","Muscle Overuse, Dengue","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,7
+Shortness Of Breath,"Sleep Apnea, COVID-19",Cpap Machine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Back Pain, Numbness","Herniated Disc, Dengue","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,16
+"Joint Pain, Fatigue","Arthritis, Bronchitis",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,13
+"Stomach Pain, Diarrhea","Gastroenteritis, Allergy","Fluids, Bland Diet",Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+"Nausea, Vomiting","Muscle Strain, Bronchitis",Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,13
+"Fatigue, Sadness","Major Depressive Disorder, Bronchitis",Sertraline,Viral infection,Maintain hygiene and rest,Moderate,General Physician,2
+"Skin Rash, Itching","Dermatitis, Common Cold",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,3
+"Abdominal Pain, Bloating","Indigestion     Anta, Malaria",Cids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+"Muscle Pain, Fatigue","Muscle Strain, Allergy","Rest, Pain Relievers",Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Joint Pain, Swelling","Is  Arthritis, Common Cold",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+"Nausea, Vomiting","Muscle Strain, Bronchitis",Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,12
+Diabetes,"fatigue, frequent urination, thirst, Common Cold",metformin,"high sugar, obesity, genetics","diet control, exercise",Chronic,Endocrinologist,18
+"Anxiety, Palpitations","Anxiety Disorder, COVID-19","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+Epilepsy,"seizures, confusion, staring spells, COVID-19",valproate,"genetic, brain injury","avoid triggers, medication",Chronic,Neurologist,1
+Shortness Of Breath,"Asthma, Allergy",Albuterol Inhaler,Viral infection,Maintain hygiene and rest,Moderate,General Physician,32
+"Fever, Cough","Common Cold, Allergy","Ibuprofen, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,6
+Sore Throat,"Strep Throat, Malaria",Penicillin,Viral infection,Maintain hygiene and rest,Moderate,General Physician,9
+"Headache, Sensitivity","Tension Headache Rel, COVID-19","Axation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+Shortness Of Breath,"Chronic Bronchitis, Dengue",Inhalers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,29
+"Dizziness, Fatigue","Heat Exhaustion, Bronchitis","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,32
+"Abdominal Pain, Bloating","Indigestion, Allergy",Antacids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Chest Pain, Shortness","Coronary Artery, Allergy",Nitroglycerin,Viral infection,Maintain hygiene and rest,High,General Physician,19
+"Headache, Blurred Vision","Migraine, COVID-19",Beta-Blockers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+"Headache, Sensitivity","Tension Headache Rel, COVID-19","Axation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,3
+"Joint Pain, Swelling","Arthritis, Flu",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Chest Pain, Shortness Of Breath","Coronary Artery Disease, Dengue","Nitroglycerin,Aspirin",Viral infection,Maintain hygiene and rest,High,General Physician,20
+"Anxiety, Rapid Heartbeat","Panic Disorder, Common Cold",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Fatigue, Weakness","Chronic Fatigue Syndrome, Common Cold","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Cough, Shortness Of Breath","Covid-19, Bronchitis","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,11
+"Skin Rash, Itching","Dermatitis, Flu",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,3
+"Cough, Shortness Of Breath","Covid-19, Bronchitis","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,9
+"Nausea, Vomiting","Gastroenteritis, COVID-19",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,33
+"Fatigue, Difficulty Breathing","Disease, Allergy",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,9
+Diabetes,"fatigue, frequent urination, thirst, Common Cold",metformin,"high sugar, obesity, genetics","diet control, exercise",Chronic,Endocrinologist,18
+Shortness Of Breath,"Sleep Apnea, COVID-19",Cpap Machine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Headache, Blurred Vision","Migraine, COVID-19",Beta-Blockers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+Typhoid,"fever, abdominal pain, diarrhea, Allergy",ciprofloxacin,bacterial infection (salmonella),"boiled water, hygiene",Severe,Infectious Disease,6
+"Abdominal Pain, Bloating O","Indigestion, Flu",Antacids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+"Headache, Blurred Vision","Vision Fatigue, Dengue","Rest, Eye Exercises",Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Nausea, Dizziness","Motion Sickness, Common Cold",Dimenhydrinate,Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Fatigue, Difficulty Breathing","Thyroid Disorder, COVID-19",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,3
+"Anxiety, Palpitations","Anxiety Disorder, Common Cold","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+"Itching, Redness","Allergic Reaction, Bronchitis",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+"Skin Rash, Itching","Dermatitis, Common Cold",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,2
+"Headache, Sensitivity","Tension Headache, Dengue","Relaxation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Nausea, Dizziness","Motion Sickness, Dengue",Dimenhydrinate,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Joint Pain, Swelling","Arthritis, Flu",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,22
+"Cough, Shortness Of Breat","Covid-19, Common Cold","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,10
+"Back Pain, Numbness","Herniated Disc, Dengue","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,20
+"Fatigue, Difficulty Breathing","Thyroid Disorder, Flu",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,11
+"Joint Pain, Fatigue","Arthritis, COVID-19",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,3
+"Headache, Sensitivity","Tension Headache, Dengue","Relaxation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,2
+"Headache, Sensitivity","Tension Headache, Dengue","Relaxation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Fatigue, Sadness","Major Depressive Disorder, Bronchitis",Sertraline,Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Anxiety, Rapid Heartbeat","Panic Disorder, COVID-19",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,20
+"Nausea, Cramps","Menstrual Cramps, Dengue",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+"Back Pain, Numbness","Herniated Disc, Dengue","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,18
+"Sore Throat, Cough","Strep Throat, Allergy",Penicillin,Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,18
+"Nausea, Cramps","Menstrual Cramps Pai, Malaria",N Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Dizziness, Fatigue","Heat Exhaustion Hydr, Allergy","Ation, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Back Pain, Numbness","Herniated Disc, Dengue","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+"Itching, Redness","Allergic Reaction An, Bronchitis",Tihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Fever, Cough","Common Cold, Allergy","Ibuprofen, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,5
+"Dizziness, Fatigue","Heat Exhaustion, Bronchitis","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,29
+"Back Pain, Numbness","Herniated Disc, Dengue","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,22
+"Chest Pain, Shortness Of Breath","Coronary Artery Disease, Dengue","Nitroglycerin,Aspirin",Viral infection,Maintain hygiene and rest,High,General Physician,19
+Shortness Of Breath,"Asthma, Allergy",Albuterol Inhaler,Viral infection,Maintain hygiene and rest,Moderate,General Physician,33
+"Back Pain, Numbness","Herniated Disc, Flu","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Chest Pain, Shortnessof Breath","Muscle Overuse, COVID-19","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,13
+"Dizziness, Fatigue","Heat Exhaustion, Bronchitis","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,30
+"Abdominal Pain, Bloating","Indigestion, Allergy",Antacids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,22
+"Back Pain, Numbness","Herniated Disc, Dengue","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,22
+"Stomach Pain, Diarrhea","Gastroenteritis, Allergy","Fluids, Bland Diet",Viral infection,Maintain hygiene and rest,Moderate,General Physician,9
+"Itching, Redness","Allergic Reaction An, Bronchitis",Tihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Anxiety, Rapid Heartbeat","Panic Disorder, Common Cold",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,29
+"Fatigue, Sadness","Major Depressive Disorder, Bronchitis",Sertraline,Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Skin Rash, Itching","Dermatitis, Dengue",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,10
+"Chest Pain, Shortness","Coronary Artery, Allergy",Nitroglycerin,Viral infection,Maintain hygiene and rest,High,General Physician,17
+"Itching, Redness","Allergic Reaction, Bronchitis",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Fatigue, Difficulty Breathing","Thyroid Disorder, COVID-19",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Cough, Shortness Of Breath","Covid-19, Bronchitis","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,11
+"Joint Pain, Fatigue","Arthritis, Bronchitis",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+"Skin Rash, Itching","Dermatitis, Flu",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Back Pain, Numbness","Herniated Disc, Dengue","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,18
+"Cough, Shortness Of Brea","Covid-19, Flu","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,1
+"Skin Rash, Itching","Dermatitis, Flu",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+"Cough, Sneezing","Common Cold, COVID-19","Honey, Rest",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,11
+"Fatigue, Weakness","Chronic Fatigue Syndrome, Bronchitis","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Headache, Fatigue","Migraine, Bronchitis",Sumatriptan,Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+Shortness Of Breath,"Asthma, Allergy",Albuterol Inhaler,Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+Diabetes,"fatigue, frequent urination, thirst, Common Cold",metformin,"high sugar, obesity, genetics","diet control, exercise",Chronic,Endocrinologist,23
+"Chest Pain, Shortness Of Breath","Coronary Artery, Allergy","Nitroglycerin,Aspirin",Viral infection,Maintain hygiene and rest,High,General Physician,23
+"Fatigue, Difficulty","Thyroid Disorder, Bronchitis",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Itching, Redness","Allergic Reaction, Bronchitis",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+"Headache, Fatigue","Migraine, Bronchitis",Sumatriptan,Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Headache, Fatigue","Migraine, Bronchitis",Sumatriptan,Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Nausea, Cramps","Menstrual Cramps Pai, Malaria",N Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Dizziness, Fatigue","Heat Exhaustion, Dengue","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Cough, Fever","Respiratory     Antiinfection, Malaria","Virals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,28
+Diabetes,"fatigue, frequent urination, thirst, Common Cold",metformin,"high sugar, obesity, genetics","diet control, exercise",Chronic,Endocrinologist,23
+"Cough, Shortness Of Breath","Covid-19, Bronchitis","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,12
+"Itching, Redness","Allergic Reaction An, Bronchitis",Tihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,20
+"Fever, Cough","Common Cold, Allergy","Ibuprofen, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,5
+"Back Pain, Numbness","Sciatica, Dengue",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+"Headache, Fatigue","Migraine, Bronchitis",Sumatriptan,Viral infection,Maintain hygiene and rest,Moderate,General Physician,30
+"Cough, Fever","Respiratoryinfection, Flu","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,7
+"Fatigue, Sadness","Major Depressive Disorder, Bronchitis",Sertraline,Viral infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Headache, Sensitivity","Tension Headache Rel, COVID-19","Axation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Fatigue, Difficulty Breathing","Thyroid Disorder, COVID-19",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,3
+"Back Pain, Numbness","Herniated Disc, Flu","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+"Fatigue, Difficulty Breathing","Thyroid Disorder, COVID-19",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+"Cough, Shortness Of Brea","Covid-19, Allergy","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,1
+"Nausea, Cramps","Menstrual Cramps, Bronchitis",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Sore Throat, Cough","Strep Throat, Allergy",Penicillin,Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,18
+"Chest Pain, Shortness Of Breath","Coronary Artery, Allergy","Nitroglycerin,Aspirin",Viral infection,Maintain hygiene and rest,High,General Physician,23
+"Joint Pain, Swelling","Rheumatoid Arthritis, Malaria",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+"Back Pain, Numbness","Herniated Disc, COVID-19","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Skin Rash, Itching","Dermatitis, Dengue",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,11
+"Nausea, Vomiting","Gastroenteritis, Common Cold",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,11
+"Muscle Pain, Fatigue","Muscle Strain, Bronchitis","Rest, Pain Relievers",Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+"Back Pain, Numbness","Herniated Disc, Flu","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,20
+"Skin Rash, Itching","Dermatitis, Common Cold",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Fever, Muscle Aches","Influenza, Bronchitis",Acetaminophen,Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,1
+"Stomach Pain, Diarrhea","Gastritis, Malaria","Antacids, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,16
+"Itching, Redness","Allergic Reaction An, Bronchitis",Tihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,20
+"Joint Pain, Swelling","Arthritis, COVID-19",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,11
+"Itching, Redness","Allergic Reaction, Bronchitis",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Back Pain, Numbness","Herniated Disc, Flu","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,20
+Hepatitis B,"jaundice, fatigue, nausea, Allergy",antivirals,viral infection,"vaccination, avoid alcohol",Chronic,Hepatologist,14
+"Chest Pain, Shortnessof Breath","Coronary Artery Disease, COVID-19","Nitroglycerin,Aspirin",Viral infection,Maintain hygiene and rest,High,General Physician,24
+Shortness Of Breath,"Asthma, Allergy",Albuterol Inhaler,Viral infection,Maintain hygiene and rest,Moderate,General Physician,31
+"Nausea, Vomiting","Morning Sickness, COVID-19","Ginger, Vitamin B6",Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+"Itching, Redness","Allergic Reaction, Bronchitis",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+"Headache, Blurred Vision","Vision Fatigue, Dengue","Rest, Eye Exercises",Viral infection,Maintain hygiene and rest,Moderate,General Physician,30
+"Back Pain, Numbness","Sciatica, Dengue",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Headache, Sensitivity","Tension Headache Rel, COVID-19","Axation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,2
+"Fatigue, Weakness","Chronic Fatigue, COVID-19","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,20
+"Back Pain, Numbness","Sciatica, Dengue",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+"Nausea, Vomiting","Morning Sickness, COVID-19","Ginger, Vitamin B6",Viral infection,Maintain hygiene and rest,Moderate,General Physician,12
+"Cough, Shortness Of Breath","Covid-19, Bronchitis","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,6
+"Anxiety, Palpitations","Anxiety Disorder, Common Cold","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,20
+"Skin Rash, Itching","Dermatitis, Flu",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Fever, Chills","Pneumonia, Bronchitis","Antibiotics, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Anxiety, Palpitations","Anxiety Disorder, Common Cold","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Fatigue, Weakness","Chronic Fatigue Syndrome, Bronchitis","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Sore Throat, Cough","Strep Throat, Flu",Penicillin,Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,1
+"Fever, Cough","Common Cold, Allergy","Ibuprofen, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,3
+"Fever, Muscle Aches","Influenza, Bronchitis",Acetaminophen,Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,3
+"Nausea, Cramps","Menstrual Cramps Pai, Malaria",N Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Fatigue, Difficulty Breathing","Thyroid Disorder, Flu",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,11
+"Dizziness, Fatigue","Heat Exhaustion Hydr, Allergy","Ation, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,22
+"Joint Pain, Swelling","Arthritis, COVID-19",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+Shortness Of Breath,"Sleep Apnea, COVID-19",Cpap Machine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,29
+"Chest Pain, Shortness Of Breath","Coronary Arterydisease, Common Cold",Nitroglycerin,Viral infection,Maintain hygiene and rest,High,General Physician,22
+"Fatigue, Difficulty Breathing","Disease, Allergy",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,13
+"Joint Pain, Swelling","Arthritis, Flu",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,20
+"Nausea, Vomiting","Muscle Strain, Bronchitis",Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,14
+"Chest Pain, Dizziness","Hypertension, Dengue",Amlodipine,Viral infection,Maintain hygiene and rest,High,General Physician,28
+"Stomach Pain, Diarrhea","Gastritis, Malaria","Antacids, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,17
+"Headache, Sensitivity","Tension Headache Rel, COVID-19","Axation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+"Nausea, Vomiting","Gastroenteritis, Malaria",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,22
+"Headache, Fatigue","Migraine, Bronchitis",Sumatriptan,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Fever, Cough","Common Cold, Allergy","Ibuprofen, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,5
+"Chest Pain, Shortness","Muscle Overuse, Dengue","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,1
+"Cough, Sneezing","Common Cold, COVID-19","Honey, Rest",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,9
+"Nausea, Vomiting","Gastroenteritis, Common Cold",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,11
+"Stomach Pain, Diarrhea","Gastroenteritis, Allergy","Fluids, Bland Diet",Viral infection,Maintain hygiene and rest,Moderate,General Physician,3
+"Fatigue, Difficulty Breathing","Thyroid Disorder, COVID-19",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Abdominal Pain, Bloating","Indigestion, Allergy",Antacids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Nausea, Vomiting","Muscle Strain, Bronchitis",Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,10
+"Back Pain, Numbness","Sciatica, Dengue",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+"Chest Pain, Shortness","Muscle Overuse, Dengue","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,7
+Hepatitis B,"jaundice, fatigue, nausea, Allergy",antivirals,viral infection,"vaccination, avoid alcohol",Chronic,Hepatologist,16
+Shortness Of Breath,"Asthma, Allergy",Albuterol Inhaler,Viral infection,Maintain hygiene and rest,Moderate,General Physician,31
+"Nausea, Vomiting","Morning Sickness, COVID-19","Ginger, Vitamin B6",Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+"Skin Rash, Itching","Dermatitis, Dengue",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,16
+"Dizziness, Fatigue","Heat Exhaustion, Dengue","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,22
+"Fever, Chills","Pneumonia, Bronchitis","Antibiotics, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Skin Rash, Itching","Dermatitis, Dengue",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,12
+"Sore Throat, Cough","Strep Throat, Allergy",Penicillin,Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,22
+"Chest Pain, Shortnessof Breath","Muscle Overuse, COVID-19","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,13
+"Headache, Blurred Vision","Vision Fatigue, Dengue","Rest, Eye Exercises",Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Back Pain, Numbness","Herniated Disc, COVID-19","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Anxiety, Rapid Heartbeat","Panic Disorder, COVID-19",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,18
+"Nausea, Vomiting","Muscle Strain, Bronchitis",Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,10
+"Dizziness, Fatigue","Heat Exhaustion Hydr, Allergy","Ation, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Nausea, Vomiting","Muscle Strain, Bronchitis",Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,10
+"Cough, Fever","Respiratory Infection, COVID-19","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,7
+"Chest Pain, Shortnessof Breath","Coronary Artery Disease, COVID-19","Nitroglycerin,Aspirin",Viral infection,Maintain hygiene and rest,High,General Physician,22
+"Fever, Sore Throat","Tonsillitis, Flu","Fluids, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Sore Throat, Cough","Strep Throat, Flu",Penicillin,Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,1
+"Nausea, Dizziness","Motion Sickness, Dengue",Dimenhydrinate,Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Dizziness, Fatigue","Heat Exhaustion, Dengue","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Muscle Pain, Fatigue","Muscle Strain, Allergy","Rest, Pain Relievers",Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+Hepatitis B,"jaundice, fatigue, nausea, Allergy",antivirals,viral infection,"vaccination, avoid alcohol",Chronic,Hepatologist,14
+"Stomach Pain, Diarrhea","Gastroenteritis, Allergy","Fluids, Bland Diet",Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Chest Pain, Shortness Of Breath","Muscle Overuse, Flu","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,26
+"Headache, Blurred Vision","Muscle Strain, Common Cold",Eye Exercises,Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Fever, Chills","Pneumonia, Bronchitis","Antibiotics, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Cough, Shortness Of Brea","Covid-19, Allergy","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,4
+"Fever, Chills","Pneumonia, Bronchitis","Antibiotics, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,28
+Shortness Of Breath,"Chronic Bronchitis, Dengue",Inhalers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Fatigue, Weakness","Iron Deficiency, Dengue",Iron Supplements,Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+"Chest Pain, Shortness","Muscle Overuse, Dengue","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,7
+"Nausea, Vomiting","Morning Sickness, COVID-19","Ginger, Vitamin B6",Viral infection,Maintain hygiene and rest,Moderate,General Physician,14
+"Itching, Redness","Allergic Reaction, Dengue",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Chest Pain, Dizziness","Hypertension, Dengue",Amlodipine,Viral infection,Maintain hygiene and rest,High,General Physician,27
+"Fatigue, Weakness","Chronic Fatigue, COVID-19","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,20
+"Joint Pain, Swelling","Rheumatoid Arthritis, Malaria",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Fever, Chills","Pneumonia, Bronchitis","Antibiotics, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Chest Pain, Shortness","Muscle Overuse, Dengue","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,5
+"Cough, Fever","Respiratory Infection, Flu","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,4
+"Itching, Redness","Allergic Reaction, Bronchitis",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Skin Rash, Itching","Dermatitis, Common Cold",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Anxiety, Rapid Heartbeat","Panic Disorder, Malaria",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Nausea, Cramps","Menstrual Cramps, Dengue",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,11
+"Back Pain, Numbness","Herniated Disc, COVID-19","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,16
+Typhoid,"fever, abdominal pain, diarrhea, COVID-19",ciprofloxacin,bacterial infection (salmonella),"boiled water, hygiene",Severe,Infectious Disease,8
+"Anxiety, Rapid Heartbeat","Panic Disorder, Common Cold",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Dizziness, Fatigue","Heat Exhaustion, Dengue","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Itching, Redness","Allergic Reaction, Dengue",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Dizziness, Fatigue","Heat Exhaustion, Bronchitis","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,29
+"Dizziness, Fatigue","Heat Exhaustion, Bronchitis","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Muscle Pain, Fatigue","Muscle Strain, Bronchitis","Rest, Pain Relievers",Viral infection,Maintain hygiene and rest,Moderate,General Physician,10
+"Fatigue, Weakness","Iron Deficiency, Dengue",Iron Supplements,Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+"Nausea, Cramps","Menstrual Cramps, Dengue",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,14
+"Itching, Redness","Allergic Reaction An, Bronchitis",Tihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Headache, Sensitivity","Tension Headache, Dengue","Relaxation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+"Anxiety, Palpitations","Anxiety Disorder, Malaria","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,13
+"Itching, Redness","Allergic Reaction An, Bronchitis",Tihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,22
+"Nausea, Vomiting","Gastroenteritis, Common Cold",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,10
+"Stomach Pain, Diarrhea","Gastroenteritis, Allergy","Fluids, Bland Diet",Viral infection,Maintain hygiene and rest,Moderate,General Physician,30
+"Chest Pain, Shortness","Muscle Overuse, Dengue","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,2
+"Back Pain, Numbness","Sciatica, Dengue",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,3
+"Nausea, Vomiting","Gastroenteritis, COVID-19",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,30
+"Muscle Pain, Fatigue","Muscle Strain, Allergy","Rest, Pain Relievers",Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Anxiety, Palpitations","Anxiety Disorder, Malaria","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,10
+"Fatigue, Weakness","Chronic Fatigue, Flu","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+"Joint Pain, Swelling","Rheumatoid Arthritis, Malaria",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+"Fatigue, Sadness","Major Depressive Disorder, Bronchitis",Sertraline,Viral infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Nausea, Cramps","Menstrual Cramps Pai, Malaria",N Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Nausea, Cramps","Menstrual Cramps, Dengue",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,12
+"Chest Pain, Shortnessof Breath","Coronary Artery Disease, COVID-19","Nitroglycerin,Aspirin",Viral infection,Maintain hygiene and rest,High,General Physician,26
+"Itching, Redness","Allergic Reacti, Allergy",On   Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,12
+"Joint Pain, Fatigue","Arthritis, COVID-19",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+"Nausea, Vomiting","Muscle Strain, Bronchitis",Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,10
+"Stomach Pain, Diarrhea","Gastroenteritis, Allergy","Fluids, Bland Diet",Viral infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Skin Rash, Itching","Dermatitis, Dengue",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,12
+"Chest Pain, Shortnessof Breath","Coronary Artery Disease, COVID-19","Nitroglycerin,Aspirin",Viral infection,Maintain hygiene and rest,High,General Physician,23
+"Itching, Redness","Allergic Reacti, Allergy",On   Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,12
+"Cough, Fever","Respiratoryinfection, Flu","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,13
+"Fever, Chills","Pheumonia, Bronchitis","Antibiotics, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Nausea, Vomiting","Muscle Strain, Bronchitis",Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+"Nausea, Vomiting","Gastroenteritis, Malaria",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,22
+"Itching, Redness","Allergic Reaction An, Bronchitis",Tihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Fatigue, Weakness","Chronic Fatigue Syndrome, Common Cold","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+Arthritis,"joint pain, stiffness, swelling, Bronchitis",ibuprofen,"aging, genetics, autoimmune","exercise, weight control",Moderate,Rheumatologist,9
+"Fatigue, Difficulty Breathing","Thyroid Disorder, COVID-19",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Cough, Fever","Respiratory     Antiinfection, Malaria","Virals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,27
+"Fever, Chills","Pneumonia, Bronchitis","Antibiotics, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Fatigue, Weakness","Chronic Fatigue, COVID-19","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Fever, Sore Throat","Tonsillitis, Flu","Fluids, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Cough, Fever","Respiratory Infection, COVID-19","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,5
+"Fever, Chills","Pheumonia, Bronchitis","Antibiotics, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,10
+"Dizziness, Fatigue","Heat Exhaustion, Dengue","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+"Cough, Shortness Of Brea","Covid-19, Flu","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,6
+"Fatigue, Weakness","Chronic Fatigue, COVID-19","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Itching, Redness","Allergic Reacti, Allergy",On   Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+"Skin Rash, Itching","Dermatitis, Dengue",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,10
+"Fatigue, Difficulty Breathing","Thyroid Disorder, COVID-19",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,9
+"Anxiety, Palpitations","Anxiety Disorder, COVID-19","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Skin Rash, Itching","Dermatitis, Common Cold",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+Shortness Of Breath,"Sleep Apnea, COVID-19",Cpap Machine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Nausea, Dizziness","Motion Sickness, Dengue",Dimenhydrinate,Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Dizziness, Fatigue","Heat Exhaustion, Bronchitis","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,31
+"Headache, Fatigue","Migraine, Bronchitis",Sumatriptan,Viral infection,Maintain hygiene and rest,Moderate,General Physician,30
+"Headache, Sensitivity","Tension Headache Rel, COVID-19","Axation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+"Joint Pain, Swelling","Rheumatoid Arthritis, Malaria",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+"Fever, Chills","Pneumonia, Bronchitis","Antibiotics, Rest",Bacterial infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Abdominal Pain, Bloating","Indigestion, Allergy",Antacids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+Typhoid,"fever, abdominal pain, diarrhea, Allergy",ciprofloxacin,bacterial infection (salmonella),"boiled water, hygiene",Severe,Infectious Disease,4
+"Chest Pain, Shortness","Muscle Overuse, Dengue","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,7
+"Fatigue, Weakness","Chronic Fatigue Syndrome, Bronchitis","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Chest Pain, Shortnessof Breath","Coronary Artery Disease, COVID-19","Nitroglycerin,Aspirin",Viral infection,Maintain hygiene and rest,High,General Physician,21
+"Joint Pain, Swelling","Arthritis, Flu",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Joint Pain, Fatigue","Arthritis, COVID-19",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+"Nausea, Vomiting","Muscle Strain, Bronchitis",Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,14
+"Joint Pain, Swelling","Arthritis, COVID-19",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,30
+"Cough, Fever","Respiratory Infection, COVID-19","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,3
+"Skin Rash, Itching","Dermatitis, Dengue",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+"Nausea, Dizziness","Motion Sickness, Common Cold",Dimenhydrinate,Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Nausea, Vomiting","Gastroenteritis, Malaria",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Chest Pain, Dizziness","Hypertension, Dengue",Amlodipine,Viral infection,Maintain hygiene and rest,High,General Physician,30
+"Fatigue, Difficulty Breathing","Thyroid Disorder, Flu",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+"Headache, Blurred Vision","Vision Fatigue, Dengue","Rest, Eye Exercises",Viral infection,Maintain hygiene and rest,Moderate,General Physician,30
+"Cough, Shortness Of Breat","Covid-19, Common Cold","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,7
+"Nausea, Vomiting","Morning Sickness, COVID-19","Ginger, Vitamin B6",Viral infection,Maintain hygiene and rest,Moderate,General Physician,14
+"Joint Pain, Swelling","Is  Arthritis, Common Cold",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,9
+"Itching, Redness","Allergic Reaction, Dengue",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Stomach Pain, Diarrhea","Gastritis, Malaria","Antacids, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,15
+Shortness Of Breath,"Chronic Bronchitis, Dengue",Inhalers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Cough, Fever","Respiratory Infection, Flu","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,9
+"Cough, Fever","Respiratory     Antiinfection, Malaria","Virals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,23
+"Headache, Blurred Vision","Migraine, COVID-19",Beta-Blockers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+"Nausea, Cramps","Menstrual Cramps Pai, Malaria",N Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,30
+"Muscle Pain, Fatigue","Muscle Strain, Bronchitis","Rest, Pain Relievers",Viral infection,Maintain hygiene and rest,Moderate,General Physician,11
+"Nausea, Dizziness","Motion Sickness, Dengue",Dimenhydrinate,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Fatigue, Difficulty Breathing","Thyroid Disorder, COVID-19",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,3
+"Cough, Fever","Respiratory     Antiinfection, Malaria","Virals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,27
+"Fatigue, Weakness","Chronic Fatigue Syndrome, Common Cold","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Skin Rash, Itching","Dermatitis, Common Cold",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+"Anxiety, Rapid Heartbeat","Panic Disorder, Common Cold",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,25
+"Cough, Fever","Respiratory Infection, COVID-19","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,7
+"Cough, Shortness Of Brea","Covid-19, Flu","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,1
+"Fatigue, Weakness","Chronic Fatigue Syndrome, Common Cold","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Back Pain, Numbness","Herniated Disc, Dengue","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+"Anxiety, Rapid Heartbeat","Panic Disorder, Malaria",Cognitive Therapy,Viral infection,Maintain hygiene and rest,Moderate,General Physician,9
+"Cough, Shortness Of Brea","Covid-19, Flu","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,1
+"Cough, Shortness Of Brea","Covid-19, Flu","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,2
+"Skin Rash, Itching","Dermatitis, Common Cold",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+"Fatigue, Weakness","Chronic Fatigue, Flu","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+"Skin Rash, Itching","Dermatitis, Flu",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,7
+"Joint Pain, Swelling","Arthritis, Flu",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,22
+"Back Pain, Numbness","Herniated Disc, Flu","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,16
+"Headache, Blurred Vision","Migraine, COVID-19",Beta-Blockers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,6
+"Dizziness, Fatigue","Heat Exhaustion, Dengue","Hydration, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,27
+"Nausea, Vomiting","Gastroenteritis, Malaria",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+Diabetes,"fatigue, frequent urination, thirst, Common Cold",metformin,"high sugar, obesity, genetics","diet control, exercise",Chronic,Endocrinologist,19
+"Itching, Redness","Allergic Reaction An, Bronchitis",Tihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,17
+"Itching, Redness","Allergic Reaction, Dengue",Antihistamine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,30
+"Cough, Fever","Respiratoryinfection, Flu","Antivirals, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,13
+"Nausea, Vomiting","Gastroenteritis, Malaria",Oral Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+Sore Throat,"Strep Throat, Malaria",Penicillin,Viral infection,Maintain hygiene and rest,Moderate,General Physician,13
+"Cough, Shortness Of Brea","Covid-19, Allergy","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,3
+"Joint Pain, Fatigue","Arthritis, COVID-19",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+"Cough, Shortness Of Breath","Covid-19, Bronchitis","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,6
+"Fatigue, Difficulty Breathing","Disease, Allergy",Levothyroxine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+"Anxiety, Palpitations","Anxiety Disorder, COVID-19","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Nausea, Vomiting","Muscle Strain, Bronchitis",Rehydration,Viral infection,Maintain hygiene and rest,Moderate,General Physician,10
+"Nausea, Cramps","Menstrual Cramps, Bronchitis",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,17
+"Anxiety, Palpitations","Anxiety Disorder, Common Cold","Therapy, Medication",Viral infection,Maintain hygiene and rest,Moderate,General Physician,11
+"Skin Rash, Itching","Dermatitis, Flu",Topical Steroids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,4
+"Stomach Pain, Diarrhea","Gastritis, Malaria","Antacids, Rest",Viral infection,Maintain hygiene and rest,Moderate,General Physician,17
+"Nausea, Dizziness","Motion Sickness, Common Cold",Dimenhydrinate,Viral infection,Maintain hygiene and rest,Moderate,General Physician,8
+"Nausea, Cramps","Menstrual Cramps, Dengue",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,17
+"Back Pain, Numbness","Sciatica, Dengue",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,1
+"Joint Pain, Swelling","Rheumatoid Arthritis, Malaria",Nsaids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,26
+"Fatigue, Weakness","Chronic Fatigue Syndrome, Common Cold","Rest, Lifestyle",Viral infection,Maintain hygiene and rest,Moderate,General Physician,28
+"Back Pain, Numbness","Sciatica, Dengue",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,2
+"Nausea, Cramps","Menstrual Cramps Pai, Malaria",N Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,24
+"Cough, Shortness Of Brea","Covid-19, Flu","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,1
+"Nausea, Cramps","Menstrual Cramps, Bronchitis",Pain Relievers,Viral infection,Maintain hygiene and rest,Moderate,General Physician,16
+"Headache, Sensitivity","Tension Headache Rel, COVID-19","Axation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,5
+Diabetes,"fatigue, frequent urination, thirst, Common Cold",metformin,"high sugar, obesity, genetics","diet control, exercise",Chronic,Endocrinologist,20
+"Headache, Sensitivity","Tension Headache Rel, COVID-19","Axation, Nsaids",Viral infection,Maintain hygiene and rest,Moderate,General Physician,3
+"Back Pain, Numbness","Herniated Disc, Dengue","Pain Relievers, Pt",Viral infection,Maintain hygiene and rest,Moderate,General Physician,19
+Shortness Of Breath,"Sleep Apnea, COVID-19",Cpap Machine,Viral infection,Maintain hygiene and rest,Moderate,General Physician,23
+"Abdominal Pain, Bloating","Indigestion, Allergy",Antacids,Viral infection,Maintain hygiene and rest,Moderate,General Physician,21
+"Cough, Sneezing","Common Cold, COVID-19","Honey, Rest",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,11
+"Fever, Cough","Common Cold, Allergy","Ibuprofen, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,7
+"Cough, Shortness Of Brea","Covid-19, Flu","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,1
+"Fever, Cough","Common Cold, Allergy","Ibuprofen, Rest",Bacterial infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,2
+"Cough, Shortness Of Breath","Covid-19, Dengue","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,30
+"Cough, Shortness Of Breath","Covid-19, Bronchitis","Isolation, Fluids",Viral infection,"Rest, hydration, and avoid cold exposure",Moderate,Pulmonologist,12
+"Chest Pain, Shortness","Muscle Overuse, Dengue","Rest, Stretching",Viral infection,Maintain hygiene and rest,High,General Physician,6
